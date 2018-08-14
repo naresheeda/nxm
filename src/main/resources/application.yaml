@@ -1,0 +1,7 @@
+spring:
+  profiles: local
+  application:
+    name: nxmlabs
+
+server:
+  port: 8082
